@@ -1,3 +1,3 @@
 display_name: China GEO Launcher
-short_description: China GEO campaign launcher
-default_prompt: "Run a China-market GEO campaign for my personal IP: initialize profile data if needed, generate platform-ready content assets, prepare semi-automated publishing steps, verify visibility in domestic AI search/model answers, and produce a report."
+short_description: China personal IP GEO workflow
+default_prompt: "Run a China-market GEO campaign for my personal IP: diagnose profile data and evidence gaps, build keyword and competitor notes, create a reader-facing article brief and platform content package, prepare semi-automated publishing steps, verify visibility in domestic AI search/model answers, and produce a scoring report."
