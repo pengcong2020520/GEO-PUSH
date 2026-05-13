@@ -56,6 +56,7 @@ The scripts are V1 scaffolding. They create stable campaign files, templates, JS
 
 ## References
 
+- `references/usage-manual.md`: end-user usage manual for setup, campaign execution, publishing, verification, scoring, and troubleshooting.
 - `references/workflow.md`: end-to-end campaign stages and expected files.
 - `references/content-generation-rules.md`: reader-facing article generation rules, article types, banned terms, and self-check.
 - `references/permissions.md`: required keys, login state, publication permissions, and blocker handling.
